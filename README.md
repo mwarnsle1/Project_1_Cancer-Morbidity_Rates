@@ -1,4 +1,4 @@
-# Cap1-fem
+# Capstone_1_Cancer
 1st capstone: research proposal on cancer morbidity trends
 
 # Overview

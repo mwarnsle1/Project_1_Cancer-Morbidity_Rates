@@ -1,6 +1,7 @@
 # Capstone_1_Cancer
 1st capstone: research proposal on cancer morbidity trends
 
+
 # Overview
 
 Our country spends the most on healthcare of any industrialized country, with the least relative return on that investment. Simultaneously, constant exposure to carcinogenic agents concerns the average insurer, even as access to care and towards preventative care improves. The cost of individual coverage rises yearly, while health disparities historically present in our system only exacerbate conditions; seeming to neutralize any progress made.
@@ -29,4 +30,4 @@ Based on the descriptive statistics and visualization, the data appeared to have
 
 # Discussion & Recommendations
 
-A closer look at the data indicates that women actually had a lower overall rate of cancer deaths than men, between the years of 1980 and 2018. While further analyses would need to be conducted to definitively find why that is, a visual check illustrates how even though breast cancer has the highest rates of cancer deaths overall, men have the highest rates of death in liver, stomach, and pancreas cancer. Also, the American Cancer Society did not factor in breast cancer of men in the data. For further insights, this data could be included. Additionally, which cancers have higher rates of morbidity within different time periods could be investigated, and from those outcomes, examine the possible higher rates between men and women, or any other trends that may be present for future analyses. 
+A closer look at the data indicates that women actually had a lower overall rate of cancer deaths than men, between the years of 1980 and 2018. While further analyses would need to be conducted to definitively find why that is, a visual check illustrates how even though breast cancer has the highest rates of cancer deaths overall, men have the highest rates of death in liver, stomach, and pancreas cancer. Also, the American Cancer Society did not factor in breast cancer of men in the data. For further insights, this data could be included. Additionally, which cancers have higher rates of morbidity within different time periods could be investigated, and from those outcomes, examine the possible higher rates between men and women, or any other trends that may be present for future analyses.
